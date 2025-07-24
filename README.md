@@ -1,3 +1,4 @@
+[![Build](https://github.com/SxitDark/OpenStick-Builder/actions/workflows/build.yml/badge.svg)](https://github.com/SxitDark/OpenStick-Builder/actions/workflows/build.yml)
 # OpenStick Image Builder
 Image builder for MSM8916 based 4G modem dongles
 
